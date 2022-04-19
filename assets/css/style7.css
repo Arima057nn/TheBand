@@ -176,12 +176,11 @@ html {
     /* position: relative; */
     margin-top: 46.5px;
     padding-top: 50%; /*Đảm bảo kích thước chiều dọc bằng 50% kích thước chiều ngang*/
-    background: url(/Project/w3_band/assets/img/chicago.jpg) top center / cover
-      no-repeat;
-    /*   
-        background-size: cover;
+    /* background: url("../img/sanfran1.jpg"); top center / cover no-repeat; */
+      background-image: url("../img/chicago.jpg");
+       background-size: cover;
         background-position: top center;
-        background-repeat: no-repeat; Không lặp lại ảnh */
+        background-repeat: no-repeat;
   }
   
   #slider .text-content {
