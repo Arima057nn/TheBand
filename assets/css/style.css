@@ -77,14 +77,14 @@ html {
     
   }
   
-  #content .btn:hover {
+#content .btn:hover {
     color: black;
     background-color: #ccc;
     cursor: pointer;
-  }
+}
   
 
-  /*! Main*/
+/*! Main*/
   #main {
   }
   #header {
@@ -386,7 +386,7 @@ html {
 #footer .copyright a{
     color: rgba(0, 0, 0, 0.6);
 }   
-}
+
 
   .modal.open{
     display: flex;    
